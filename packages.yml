@@ -1,0 +1,6 @@
+packages:
+  - package: dbt-labs/snowplow
+    version: 0.7.0
+
+  - package: Datavault-UK/dbtvault
+    version: 0.9.0
